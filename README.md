@@ -1,3 +1,4 @@
+![Screenshot 2025-06-05 135354](https://github.com/user-attachments/assets/9b38198c-349e-4915-8886-eff78a8d87a5)
 
 # 🧑‍💻 Student Course Management Web App
 
@@ -61,10 +62,7 @@ project/
    ```bash
    cd project
    ```![Screenshot 2025-06-05 135354](https://github.com/user-attachments/assets/6761911b-c15c-409f-a0ac-47a67b064337)
-![Screenshot 2025-06-05 135326](https://github.com/user-attachments/assets/3ef0ded4-22ab-45e3-91ee-a1d18c102012)
-![Screenshot 2025-06-05 135256](https://github.com/user-attachments/assets/5649a98b-3d93-4bc2-bc79-95890de1972d)
-![Screenshot 2025-06-05 135059](https://github.com/user-attachments/assets/4e73e8eb-552b-4ab0-80f3-f9c1b4e50e3e)
-![Screenshot 2025-06-05 135059](https://github.com/user-attachments/assets/1089257a-7380-4a61-a9d1-c29efa07523b)
+
 
 
 3. Install dependencies:
